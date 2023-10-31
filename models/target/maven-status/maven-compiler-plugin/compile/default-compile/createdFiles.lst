@@ -1,0 +1,8 @@
+com\airline\models\Flight.class
+com\airline\models\Pilot.class
+com\airline\models\FlightClass.class
+com\airline\models\Gender.class
+com\airline\models\FlightDestinations.class
+com\airline\models\Passenger.class
+com\airline\models\Airplane.class
+com\airline\models\PilotRank.class
